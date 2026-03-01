@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Flatline",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-03-01T04:37:34.348206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heartbeat Slowing Down (Flatline Version)",
+      "artist": "The All‐American Rejects",
+      "has_synced": false,
+      "path": "select/01_Heartbeat_Slowing_Down_(Flatline_Version)_The_All‐American_Rejects.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/02_Flatline_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Sugababes",
+      "has_synced": true,
+      "path": "select/03_Flatline_Sugababes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Periphery",
+      "has_synced": false,
+      "path": "select/04_Flatline_Periphery.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "We Came As Romans",
+      "has_synced": true,
+      "path": "select/05_Flatline_We_Came_As_Romans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/06_Flatline_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Shaman's Harvest",
+      "has_synced": true,
+      "path": "select/07_Flatline_Shaman's_Harvest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "The Murder of My Sweet",
+      "has_synced": false,
+      "path": "select/08_Flatline_The_Murder_of_My_Sweet.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Living Sacrifice",
+      "has_synced": false,
+      "path": "select/09_Flatline_Living_Sacrifice.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Deals Death",
+      "has_synced": true,
+      "path": "select/10_Flatline_Deals_Death.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Gus Dapperton",
+      "has_synced": true,
+      "path": "select/11_Flatline_Gus_Dapperton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Gus Dapperton",
+      "has_synced": false,
+      "path": "select/12_Flatline_Gus_Dapperton.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FLATLINE",
+      "artist": "Bexey",
+      "has_synced": true,
+      "path": "select/13_FLATLINE_Bexey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Bodysnatcher",
+      "has_synced": true,
+      "path": "select/14_Flatline_Bodysnatcher.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Flatline",
+      "artist": "Versus Me",
+      "has_synced": false,
+      "path": "select/15_Flatline_Versus_Me.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flatline",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Flatline_Justin_Bieber.txt"
+    }
+  ]
+}
